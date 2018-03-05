@@ -3,3 +3,6 @@ window.onload = function(){
 }
 
 //function to init all content
+function init(){
+	
+}
